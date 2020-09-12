@@ -1,0 +1,9 @@
+.drawer-menu-selected{
+    background-color: rgba(255, 166, 0, 0.829) !important;
+}
+
+.me-table-head *{
+    background-color: #333 !important;
+    color: whitesmoke !important;
+    font-weight: bold !important;
+}
